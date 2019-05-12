@@ -1,0 +1,28 @@
+body {
+    
+ background-color: black;
+    font-family: 'Akronim', cursive;
+
+    font-family: 'Indie Flower', cursive;
+
+
+}
+#hExplika {
+    background: pink;
+    padding: 6px;
+    margin: 6px;
+}
+#hFormu {
+    width: 75%;
+    margin: 20px auto;
+}
+#hTicket {
+    background-color: #996600;
+    color: yellow;
+    padding: 6px;
+}
+h1{
+
+	color: red;
+
+}
